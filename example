@@ -6,10 +6,10 @@
     <title>●犬舍名● 血统档案</title>
     <style>
         :root {
-            --gold: #D4AF37;       /* 荣耀金 */
-            --crimson: #C41E3A;    /* 典雅红 */ 
-            --obsidian: #2D2D2D;   /* 曜石黑 */
-            --ivory: #F7F7F7;      /* 象牙白 */
+            --gold: #C5A47E;    /* 香槟金 */
+            --crimson: #8B0000; /* 深绯红 */ 
+            --ebony: #2A2A2A;   /* 乌木黑 */
+            --ivory: #FFFFF0;   /* 象牙白 */
         }
 
         @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap');
